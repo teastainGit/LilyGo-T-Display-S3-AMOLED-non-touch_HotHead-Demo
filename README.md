@@ -1,4 +1,5 @@
 HotHead demo/test for T-Disply S3 AMOLED, non touch ONLY
+
 As sold here:
 https://github.com/Xinyuan-LilyGO/T-Display-S3-AMOLED
 
